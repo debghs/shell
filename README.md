@@ -1,4 +1,4 @@
 # shell
 
-a basic shell.
+A basic shell.
 
